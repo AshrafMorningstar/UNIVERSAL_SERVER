@@ -1,5 +1,13 @@
 {
   "dependencies": {
     "express": "^5.2.1"
-  }
+  },
+  "keywords": [
+    "automation",
+    "developer-tools",
+    "productivity",
+    "open-source",
+    "viral"
+  ],
+  "author": "Ashraf Morningstar"
 }
